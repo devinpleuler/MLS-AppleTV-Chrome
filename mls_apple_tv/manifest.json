@@ -1,0 +1,15 @@
+{
+   "name": "MLS Apple TV Fix",
+   "version": "1.0",
+   "description": "Removes gradient on Apple TV pause",
+   "manifest_version": 3,
+   "permissions": [
+      "activeTab"
+   ],
+   "content_scripts": [
+      {
+         "matches": ["http://tv.apple.com/*", "https://tv.apple.com/*"],
+         "js": ["remove.js"]
+      }
+   ]
+}
