@@ -1,5 +1,6 @@
 
-This is a Chrome Extension to remove the overlays that pop up when you pause a MLS game on Apple TV.
+This is a Chrome Extension to improve the analysis experience while watching a MLS game on Apple TV. It removes the gradient overlay that appears when playback is paused, and removes the controls that pop-up in the middle of the screen (use your keyboard instead).
+
 
 - Download extension from [here](https://github.com/devinpleuler/MLS-AppleTV-Chrome/raw/main/mls_apple_tv.zip) and unzip it.
 - Navigate to `chrome://extensions` in Google Chrome.
